@@ -21,6 +21,6 @@ This project uses SQL to analyze a music store database for insights like top cu
 - Analyze popular music genres and longest tracks.  
 - Determine spending by customers on specific artists.
 
-##Schema- Music Store Database 
-![MusicDatabaseSchema](https://user-images.githubusercontent.com/112153548/213707717-bfc9f479-52d9-407b-99e1-e94db7ae10a3.png)
+## Schema- Music Store Database 
+![MusicDatabaseSchema](https://github.com/Sunil4334/Music_Store_Analysis_using_SQL/blob/main/MusicDatabaseSchema.png)
 
